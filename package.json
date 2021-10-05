@@ -1,0 +1,44 @@
+{
+  "name": "hidemyacc",
+  "version": "1.0.0",
+  "description": "hidemyacc.com",
+  "main": "./app.js",
+  "scripts": {
+    "dev": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hidemyacc/hidemyacc.git"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "ONEADX",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "axios-retry": "^3.2.0",
+    "bluebird": "^3.7.2",
+    "child_process": "^1.0.2",
+    "chromedriver": "^89.0.0",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "jsdom": "^16.6.0",
+    "lodash": "^4.17.15",
+    "puppeteer-autoscroll-down": "^0.1.7",
+    "puppeteer-core": "^10.4.0",
+    "puppeteer-page-proxy": "^1.2.8",
+    "readline": "^1.3.0",
+    "request": "^2.88.2",
+    "requestretry": "^4.1.0",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  },
+  "bugs": {
+    "url": "https://hidemyacc.com"
+  },
+  "homepage": "https://hidemyacc.com",
+  "directories": {
+    "example": "examples"
+  },
+  "devDependencies": {}
+}
