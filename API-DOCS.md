@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-# Hidemyacc 2.0.56+ APIs v1.0.0
+# Hidemyacc 2.0.56+ API Docs v1.0.0
 
 # Table of contents
 
